@@ -1,8 +1,8 @@
 # Hi 👋, I'm Sloan Dcunha
-### Aspiring Data Engineer | MSc Computer Science at Queen Mary University of London | Open to Work | Tech Enthusiast 🚀
+### Aspiring Data Engineer/Software Developer | MSc Computer Science at Queen Mary University of London | Open to Work 
 
-🔹 **Experience:** Former Graduate Engineer Trainee at Jio Platforms Limited  
-🔹 **Skills:** Python, SQL, Flask, Kubernetes, Data Engineering  
+🔹 **Experience:** Ex-Graduate Engineer Trainee in Data Engineering Team at Jio Platforms Limited  
+🔹 **Skills:** Python, SQL, Flask, Kubernetes, Docker, Data Engineering  
 🔹 **Education:** Master's in Computer Science (2024) at Queen Mary University of London  
 
 ---
@@ -28,6 +28,8 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
